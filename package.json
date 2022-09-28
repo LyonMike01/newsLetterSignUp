@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  },
+  "name": "newsletter_signup",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lyon Mike",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyonMike01/deploy-news-letter.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/LyonMike01/deploy-news-letter/issues"
+  },
+  "homepage": "https://github.com/LyonMike01/deploy-news-letter#readme"
+}
